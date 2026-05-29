@@ -1,0 +1,28 @@
+# Java
+*.class
+*.jar
+*.war
+out/
+target/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Data files
+*.csv
+*.csv.bak
+*.json
+*.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
